@@ -100,8 +100,8 @@ Socket.IO ↔ Real-Time Notifications
 <img width="2668" height="1281" alt="image" src="https://github.com/user-attachments/assets/ce37fe17-ad2c-4ea6-8c23-121ac52a995f" />
 <img width="2385" height="1130" alt="image" src="https://github.com/user-attachments/assets/0c0b715b-0313-49fe-850b-230da0b957de" />
 
-|Doctor's Profile|
-| Home Page | Dashboard |
+
+| Doctor's Home Page | Dashboard |
 |-----------|-----------|
 <img width="2667" height="1273" alt="image" src="https://github.com/user-attachments/assets/de3503c6-dc41-42c0-b89c-150b7576fc6d" />
 <img width="2902" height="1372" alt="image" src="https://github.com/user-attachments/assets/2d522189-4389-4dad-abeb-fa75d5830d02" />
