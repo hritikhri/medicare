@@ -3,7 +3,7 @@ const { Server } = require('socket.io');
 require('dotenv').config();
 
 const app = require('./src/app');
-const httpServer = createServer(app);
+const httpServer = createServer(app);    
 
 const io = new Server(httpServer, {   
   cors: { origin: process.env.FRONTEND_URL || 'http://localhost:3000', methods: ['GET', 'POST'] }
