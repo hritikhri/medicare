@@ -81,10 +81,10 @@ exports.register = async (req, res, next) => {
   </div>
 `,
 });
-
+    console.log("mail sent");
     const user = new User({ name, email, password, mobile, role });
     await user.save();
-
+    console.log(`${name} - user is created`);
     if (role === "doctor") {
       const doctor = new Doctor({
         userId: user._id,
