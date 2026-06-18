@@ -123,7 +123,7 @@ Socket.IO ↔ Real-Time Notifications
 
 ```bash
 # Clone Repository
-git clone https://github.com/yourusername/mediconnect.git
+git clone https://github.com/hritikhri/medicare.git
 
 # Navigate to Project
 cd mediconnect
